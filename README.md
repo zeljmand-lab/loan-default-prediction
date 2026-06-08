@@ -49,7 +49,7 @@ Run all cells top to bottom.
 
 ## Results
 
-The model achieves 67% overall accuracy and 63% recall on the default class (class 0 in this project). Previous iterations of the model were reaching ~80% accuracy, while the default class was almost never picked. The drop in accuracy made overall scores lower, but the model itself became reliable.
+The model achieves 67% overall accuracy and 62% recall on the default class (class 0 in this project). Previous iterations of the model were reaching ~80% accuracy, while the default class was almost never picked. The drop in accuracy made overall scores lower, but the model itself became reliable.
 
 ---
 
